@@ -1,36 +1,38 @@
 h1 {
     font-size: ;
     font-family: ;
-    padding: ;
-    margin: ;
+    padding: 10 px;
+    margin: 2px ;
     font-weight: ;
     text-decoration: ;
     color: ;
     background-color: ;
+    text-align: center;
 }
 
 h2 {
-    font-size: ;
+    font: ;
     font-family: ;
     padding: ;
-    margin: ;
+    margin: 5% 0;
     font-weight: ;
     color: ;
     background-color: ;
+    text-align: center;
 }
 
 p {
-    font-family: ;
+    font-family:Georgia,serif ;
     font-size: ;
     padding: ;
-    margin: ;
+    margin: 2px;
     color: ;
     background-color: ;
 }
 
 .logo {
     background-size: cover;
-    background-image: url();
+    background-image: url("Downloads/app-logo.png");
     background-color: ;
     height: ;
     width: ;
