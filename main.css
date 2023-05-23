@@ -31,9 +31,10 @@ p {
 }
 
 .logo {
-    background-size: cover;
-    background-image: url("Downloads/app-logo.png");
-    background-color: ;
-    height: ;
-    width: ;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-image: url();
+    background-color:red;
+    height: 300px  ;
+    width:  300px;
 }
